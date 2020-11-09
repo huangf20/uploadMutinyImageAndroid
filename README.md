@@ -1,0 +1,3 @@
+# uploadMutinyImageAndroid
+## 一个Android端上传图片至服务器的demo
+客户端可以选择单张/多张图片，选择的图片通过RecyclerView展示，通过retrofit的post方式上传
